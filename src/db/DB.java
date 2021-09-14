@@ -11,6 +11,7 @@ import java.util.Properties;
 
 public class DB {
 	
+	//teste git
 	public static Connection conn = null;
 	
 	public static Connection getConnection() {
